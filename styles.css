@@ -1,0 +1,495 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@700&display=swap');
+body{
+   font-size: 100px;
+   font-family: 'Sen', sans-serif;
+  
+   
+}
+
+#layer7 {
+   position: absolute;
+   z-index: 7;
+
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 350px;
+   width: 550px;
+   top: 1400px;
+  left: 5%;
+  color:white;
+  font-family: sans-serif;
+  font-size: 100px;
+  
+  
+   }
+   h4{
+      font-family: 'Sen', sans-serif;
+   }
+
+ a{
+   font-family: 'Sen', sans-serif;
+   color: black;
+   text-decoration: underline none;
+ }  
+
+p{
+   text-shadow: 2px 2px black;
+   font-size: 30px;
+   font-family: 'Sen', sans-serif;
+}
+ #barber{
+    font-size: 130px;
+    padding: 0%;
+ }
+ #gentlemen{
+   font-size: 130px;
+   color: black;
+   text-shadow: 2px 2px WHITE;
+   font-family: 'Sen', sans-serif;
+}
+ #experience{
+    padding-left:50px;
+    text-shadow: 2px 2px WHITE;
+    
+ }
+
+ #gents{
+    padding-right: 150px;
+ }
+
+ #services{
+   font-size: 130px;
+   position: 35px;
+ }
+
+
+
+
+#container1{
+   background-color: #171716;
+   height: 450px;
+   width: cover;
+   
+   
+}
+   #layer2 {
+   position: absolute;
+   z-index: 3;
+  
+   background-repeat: no-repeat;
+      background-size: cover;
+   height: 350px;
+   width: 550px;
+   top: 5%;
+  left: 5%;
+  color: white;
+  font-family: sans-serif;
+  
+  
+   }
+   #layer3 {
+      position: absolute;
+      z-index: 2;
+      background-color:lightslategrey;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 450px;
+      width: 650px;
+      right: 10%;
+      bottom: 25%;
+      background-image: url("https://images.unsplash.com/photo-1621607505145-a022ec52de64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ3fHxiYXJiZXJzaG9wfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=400&q=60");
+      }
+     
+      #container2{
+         
+         height: 850px;
+         width: cover;
+      }
+
+      #layer4 {
+         position: absolute;
+         z-index: 4;
+         background-color:pink;
+         background-repeat: no-repeat;
+            background-size: cover;
+         height: 550px;
+         width: 550px;
+         top: 800px;
+        left: 5%;
+        background-image: url("https://images.unsplash.com/photo-1635273051264-0c44879bac27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGJhcmJlciUyMHNob3B8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60");
+        
+         }
+         #layer5 {
+            position: absolute;
+            z-index: 5;
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 350px;
+            width: 1200px;
+            left: 0%;
+           top: 500px;
+           color: white;
+           text-align: right;
+           
+            }
+             
+  #container3{
+     background-color: black;
+     height: 600px;
+     width: cover;
+  } 
+
+  #layer6 {
+   position: absolute;
+   z-index: 6;
+   background-color:rgb(153, 135, 119);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 350px;
+   width: 650px;
+   top: 1550px;
+   right: 10%;
+   bottom: 25%;
+   }
+
+  
+#container4{
+   background-color: white;
+   width: cover;
+   height: 800px;
+}
+       
+#layer8 {
+   position: absolute;
+   z-index: 5;
+   
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 350px;
+   width: 1200px;
+   left: 0%;
+  top: 2000px;
+  color: white;
+  text-align: right;
+  
+   }
+   #layer9 {
+      position: absolute;
+      z-index: 4;
+     
+      background-repeat: no-repeat;
+         background-size: cover;
+      height: 550px;
+      width: 550px;
+      top: 2200px;
+     left: 5%;
+     
+     
+      }
+
+#container5{
+   background-color:black;
+   width: cover;
+   height: 500px;
+   
+}
+
+#layer10 {
+   position: absolute;
+   z-index: 6;
+  
+   background-repeat: no-repeat;
+      background-size: cover;
+   height: 350px;
+   width: 550px;
+   top: 2800px;
+  left: 5%;
+  color: white;
+  font-family: sans-serif;
+}
+
+#layer11 {
+   position: absolute;
+   z-index: 2;
+   background-color: chocolate;
+   padding: 20px;
+  
+   height: 450px;
+   width: 350px;
+   right: 5%;
+   top: 2800px;
+  
+  font-size: 40px;
+  text-align: right;
+   }
+
+   #container6 p{
+      padding-top: 100px;
+
+   text-shadow: 2px 2px WHITE;
+   }
+   #container6 span{
+color: black;
+   text-shadow: 2px 2px WHITE;
+  margin-left: 30px;
+   }
+
+   form{
+      border: 1px solid chocolate;
+      font-size: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      justify-content: space-evenly;
+      padding: 50px;
+      margin: 20px;
+     
+   
+   }
+
+   #formFirst{
+      display: flex;
+      flex-direction: row;
+      margin: 20px;
+      justify-content: space-evenly;
+      
+   }
+  
+
+   form label{
+      margin: 10px;
+      
+   }
+
+    #submit{
+      width: 30%;
+      display: flex;
+      justify-content: center;
+      margin: 0 auto;
+   }
+
+   input{
+      padding:10px;
+   }
+   select{
+      padding: 10px;
+   }
+
+  footer{
+     border-top: 1px solid black;
+     margin: 0 auto;
+     display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+     padding-top: 30px;
+     margin-top: 100px;
+     color: white;
+     background-color: black;
+     
+  }
+  footer img{
+     background-color: white;
+     border-radius: 40%;
+     padding: 20px;
+  }
+ 
+
+
+ 
+@media only screen and (max-width: 1024px) {
+   #layer5{
+      width: 1024px;
+      
+   }
+   #layer8{
+      width: 1024px;
+      
+   }
+   #gents{font-size: 100px;}
+   #experience{font-size: 100px;}
+}
+@media only screen and (max-width: 768px) {
+   #layer5{
+      width: 768px;
+      
+   }
+   #layer8{
+      width: 768px;
+      
+   }
+   #gents{
+      font-size: 100px;
+      padding-right: 1px;
+   }
+   #experience{font-size: 100px;}
+   #formFirst{
+      flex-direction: column;
+     text-align: center;
+      
+   }
+   #layer11{
+      margin-top: 200px;
+   }
+   #container5{
+      height:600px;
+   }
+}
+
+@media only screen and (max-width: 425px) {
+   #barber{
+      font-size: 40px;
+   }
+   #gents{
+      font-size: 40px;
+      padding-right: 1px;
+      
+   }
+   #experience{font-size: 40px;}
+   #services{font-size: 40px;}
+   #layer5{
+      width: 425px;
+      
+   }
+   #layer8{
+      width: 425px;
+      
+   }
+   #layer4{
+      width: 400px;
+      margin-left: 0px;
+      
+   }
+   iframe{
+      width: 400px;
+      padding-top: 10px;
+      
+   }
+   #gentlemen{
+      width: 300px;
+      top: 10px;
+      font-size: 44px;
+   }
+   #layer11{
+      margin-top: 100px;
+   }
+   #container6{
+      padding-top: 150px;
+   }
+   #layer2{
+      width: 400px;
+   }
+   #layer3{
+      width: 455px;
+      height: 425px;
+   }
+   #layer10{
+      width: 400px;
+   }
+   #layer7{
+      width: 400px;
+   }
+   #layer9{
+      width: 400px;
+   }
+   #layer6{
+      width: 400px;
+      margin-left: 10px;
+   }
+   footer{
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      
+   }
+  
+ 
+ 
+ 
+}
+@media only screen and (max-width: 375px) {
+#layer4{
+   width: 350px;
+}
+#layer5{
+   width: 350px;
+}
+#layer2{
+   width: 350px;
+}
+#layer7{
+   width: 350px;
+}
+#layer9{
+   width: 350px;
+}
+#layer8{
+   width: 350px;
+}
+#layer10{
+   width: 350px;
+}
+#container6{
+   width: 350px;
+}
+iframe{
+   width: 350px;
+}
+#email{
+   width: 200px;
+}
+#service{
+   width: 200px;
+}
+#nyc{
+   text-shadow: 2px 2px black;
+}
+#submit{
+   width: 70%;
+}
+
+}
+
+@media only screen and (max-width: 325px) {
+   #layer4{
+      width: 290px;
+   }
+   #layer5{
+      width: 320px;
+   }
+   #layer2{
+      width: 320px;
+   }
+   #layer7{
+      width: 320px;
+   }
+   #layer9{
+      width: 320px;
+   }
+   #layer8{
+      width: 320px;
+   }
+   #layer10{
+      width: 320px;
+   }
+   #container6{
+      width: 320px;
+   }
+   iframe{
+      width: 290px;
+   }
+   #email{
+      width: 200px;
+   }
+   #service{
+      width: 200px;
+   }
+   #nyc{
+      text-shadow: 2px 2px black;
+   }
+   
+   
+   }
+
+
+  
