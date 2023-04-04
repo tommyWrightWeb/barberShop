@@ -1,9 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@700&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Itim&family=Noto+Serif+JP:wght@700&family=Rock+Salt&display=swap');
+
 body{
    font-size: 100px;
    font-family: 'Sen', sans-serif;
   
    
+}
+
+.navbar-brand{
+   text-align: right;
+   color: white;
 }
 
 #layer7 {
@@ -344,6 +352,11 @@ color: black;
    #formFirst select{
       width: 90%;
    }
+   #socials img{
+      width: 60px;
+      height: auto;
+      padding:10px
+   }
 }
 
 @media only screen and (max-width: 425px) {
@@ -384,9 +397,13 @@ color: black;
    #layer11{
       margin-top: 100px;
       text-align: center;
+      width: 90%;
    }
    #container6{
       padding-top: 150px;
+   }
+   #container6 p{
+      text-align: center;
    }
    #layer2{
       width: 90%;
@@ -402,6 +419,7 @@ color: black;
    }
    #layer7{
       width: 400px;
+      text-align: center;
    }
    #layer9{
       width: 400px;
@@ -418,9 +436,34 @@ color: black;
       
    }
    #layer4{
-      width:100%;
+      
       left: 2%;
    }
+   #gentlemen{
+      text-align: center;
+      width: 100%;
+   }
+   #experience{
+      padding-left: 0px;
+
+   }
+   form{
+      width: 95%;
+   }
+
+   #container3{
+      margin-bottom: 20px;
+   }
+  
+
+    p #gentlemen{
+      text-align: center;
+   }
+   #container6{
+      padding-top: 5px;
+   }
+
+  
   
  
  
@@ -471,28 +514,29 @@ iframe{
 
 @media only screen and (max-width: 325px) {
    #layer4{
-      width: 290px;
+      width: 300px;
    }
    #layer5{
       width: 320px;
    }
    #layer2{
-      width: 320px;
+      width: 300px;
    }
    #layer7{
-      width: 320px;
+      width: 300px;
    }
    #layer9{
-      width: 320px;
+      width: 300px;
    }
    #layer8{
       width: 320px;
    }
    #layer10{
-      width: 320px;
+      width: 300px;
+      text-align: center;
    }
    #container6{
-      width: 320px;
+      width: 300px;
    }
    iframe{
       width: 290px;
