@@ -334,6 +334,16 @@ color: black;
    #container5{
       height:600px;
    }
+   #formFirst input{
+      width: 90%;
+      margin: 5px;
+   }
+   #formFirst Button{
+      width: 90%;
+   }
+   #formFirst select{
+      width: 90%;
+   }
 }
 
 @media only screen and (max-width: 425px) {
@@ -361,8 +371,9 @@ color: black;
       
    }
    iframe{
-      width: 400px;
+      width: 95%;
       padding-top: 10px;
+     margin: 0 auto;
       
    }
    #gentlemen{
@@ -372,16 +383,19 @@ color: black;
    }
    #layer11{
       margin-top: 100px;
+      text-align: center;
    }
    #container6{
       padding-top: 150px;
    }
    #layer2{
-      width: 400px;
+      width: 90%;
+     z-index: 0;
+     text-align: center;
+    padding-top: 50px;
    }
    #layer3{
-      width: 455px;
-      height: 425px;
+      display: none;
    }
    #layer10{
       width: 400px;
@@ -393,14 +407,19 @@ color: black;
       width: 400px;
    }
    #layer6{
-      width: 400px;
+      width: 80%;
       margin-left: 10px;
+      height: auto;
    }
    footer{
       flex-direction: column;
       justify-content: center;
       text-align: center;
       
+   }
+   #layer4{
+      width:100%;
+      left: 2%;
    }
   
  
